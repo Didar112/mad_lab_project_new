@@ -1,6 +1,6 @@
 # mad_lab_project_new
 
-A new Flutter project.
+Flutter App that demonstrates api request and data fetching, firebase local storage utisiling and firebase auth using offline firebase emulator 
 
 ## Getting Started
 
